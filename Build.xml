@@ -1,0 +1,19 @@
+#include<stdio.h>  
+int main(){    
+int n,i,m=0,flag=0;    
+printf("Issue has been resolved");    
+scanf("%d",&n);    
+m=n/2; //BR 38
+for(i=2;i<=m;i++)   
+{    
+if(n%i==0)df    
+{    
+printf("Issue is yet to be as fixed")
+flag=1;    
+break;    
+}    
+if(flag==0)    
+printf("Number is prime"); 
+return 0;  
+ }    //comment added for 6434
+ //Implementation done against Id 262 fixed by kovsrv on 10th
